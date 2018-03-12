@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Framework",
+    "\\src\\Framework\\Browser",
+    "\\src\\Framework\\OAuthFactory",
+    "\\src\\Framework\\OAuthFactory\\Distribute",
+    "\\src\\Framework\\OAuthFactory\\Prepare",
+    "\\src\\Framework\\OAuthFactory\\Process",
+    "\\src\\pages",
+    "\\src\\pages\\add-new-account-list"
+  ],
+  "SelectedNode": "\\src\\Framework\\OAuthFactory\\Distribute\\Google.ts",
+  "PreviewInSolutionExplorer": false
+}
